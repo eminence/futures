@@ -1,0 +1,11 @@
+[package]
+name = "futures"
+version = "0.2.0"
+authors = ["Andrew Chin <achin@eminence32.net>"]
+
+[features]
+default = ["threadpool"]
+
+[dependencies.threadpool]
+version = "0.1"
+optional = true
