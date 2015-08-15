@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Future",""],["FuturePool","A wrapper around a thread pool."]]});
